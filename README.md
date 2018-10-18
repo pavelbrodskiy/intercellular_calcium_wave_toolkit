@@ -8,11 +8,11 @@ This toolbox simplifies spatial analysis of calcium wave dynamics in the develop
 
 # Requirements
 - MATLAB 2017b or newer is required
-- The following toolboxes are required to use this toolbox
+- The following toolboxes are required to use the functionality described in the demo
   - Image processing toolbox
-  - Signal processing toolbox
   - Statistics and machine learning toolbox
-- The following toolboxes are required for certain functionality
+- The following toolboxes are required for additional features of the toolbox
+  - Signal processing toolbox
   - Parallel computing toolbox
   - Wavelet toolbox
   - Global optimization toolbox
