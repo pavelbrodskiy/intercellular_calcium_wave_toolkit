@@ -3,6 +3,10 @@ Data/*
 dataProcessing/*
 !Data/data_goes_here.txt
 !dataProcessing/processed_data_goes_here.txt
+*.png
+*.tif
+*.tiff
+*.mat
 
 # Windows default autosave extension
 *.asv
