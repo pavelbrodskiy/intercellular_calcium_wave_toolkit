@@ -1,5 +1,5 @@
 # Overview
-This the code in this repository is meant to make spatial analysis of calcium wave dynamics in the developing wing disc easier. Users should always validate that the analysis is doing what they think it should be doing. I have uploaded a demo of the toolkit's functionality. I have also executed the demo and uploaded a pdf to serve as a test for much of the toolbox's functionality.
+This toolbox simplifies spatial analysis of calcium wave dynamics in the developing wing disc. I have uploaded a demo of the toolkit's functionality. I have also executed the demo and uploaded a pdf to serve as a test for much of the toolbox's functionality. Users should always validate that the analysis is doing what they think it should be doing. 
 
 # Contact
 - Please cite our manuscript if you found the code useful. The most current public manuscript is a bioRxiv preprint located here: https://doi.org/10.1101/104745
@@ -18,8 +18,7 @@ This the code in this repository is meant to make spatial analysis of calcium wa
   - Global optimization toolbox
 - You need either your own confocal time-lapse data to analyze, or to obtain the test data. The test data is not publically available as the manuscript is still undergoing peer review.
 
-# Steps for running the 
-/test case
+# Steps for running the demo
 - Clone the repository to get the code
 - Obtain the "processed" data and place it in the dataProcessing folder. I currently must supply you with this until I am authorized to host it publicly
 - Run the file demo.mlx, clicking "yes" when asked to change the current folder
