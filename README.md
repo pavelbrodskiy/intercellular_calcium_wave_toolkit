@@ -38,9 +38,21 @@ settings = prepareWorkspace()
 
 # References
 This is an annotated list of published papers and preprints providing context for or stemming from this work.
-- Brodskiy, P.A. and Zartman, J.J., 2018. Calcium as a signal integrator in developing epithelial tissues. *Physical biology*, 15(5), p.051001. DOI: [10.1088/1478-3975/aabb18](https://doi.org/10.1088/1478-3975/aabb18). *This is an introduction to the role of calcium signaling in developmental contexts.* 
-- Narciso, C., Wu, Q., Brodskiy, P., Garston, G., Baker, R., Fletcher, A. and Zartman, J., 2015. Patterning of wound-induced intercellular Ca2+ flashes in a developing epithelium. *Physical biology*, 12(5), p.056005. DOI: [10.1088/1478-3975/12/5/056005](https://doi.org/10.1088/1478-3975/12/5/056005). *This is an initial look at calcium signaling dynamics in wing development.*
-- Wu, Q.\*, Brodskiy, P.A.\*, Huizar, F.J., Jangula, J.J., Narciso, C., Levis, M.K., Brito-Robinson, T. and Zartman, J.J., 2017. In vivo relevance of intercellular calcium signaling in Drosophila wing development. *bioRxiv*, p.187401. DOI: [10.1101/187401](https://doi.org/10.1101/187401). *This is a charactarization of the role of calcium signaling in wing development.*
-- Brodskiy, P.A.\*, Wu, Q.\*, Huizar, F.J., Soundarrajan, D.K., Narciso, C., Levis, M., Arredondo-Walsh, N., Chen, J., Liang, P., Chen, D.Z. and Zartman, J.J., 2017. Intercellular calcium signaling is regulated by morphogens during Drosophila wing development. *bioRxiv*, p.104745. DOI: [10.1101/104745](https://doi.org/10.1101/104745). *This is a charactarization of the calcium signaling regulation by morphogens.*
+
+An introduction to the role of calcium signaling in developmental contexts
+
+> Brodskiy, P.A. and Zartman, J.J., 2018. Calcium as a signal integrator in developing epithelial tissues. *Physical biology*, 15(5), p.051001. DOI: [10.1088/1478-3975/aabb18](https://doi.org/10.1088/1478-3975/aabb18).
+
+An initial look at calcium signaling dynamics in wing development
+
+> Narciso, C., Wu, Q., Brodskiy, P., Garston, G., Baker, R., Fletcher, A. and Zartman, J., 2015. Patterning of wound-induced intercellular Ca2+ flashes in a developing epithelium. *Physical biology*, 12(5), p.056005. DOI: [10.1088/1478-3975/12/5/056005](https://doi.org/10.1088/1478-3975/12/5/056005).
+
+A charactarization of the role of calcium signaling in wing development
+
+> Wu, Q.\*, Brodskiy, P.A.\*, Huizar, F.J., Jangula, J.J., Narciso, C., Levis, M.K., Brito-Robinson, T. and Zartman, J.J., 2017. In vivo relevance of intercellular calcium signaling in Drosophila wing development. *bioRxiv*, p.187401. DOI: [10.1101/187401](https://doi.org/10.1101/187401).
+
+A charactarization of the calcium signaling regulation by morphogens.
+
+> Brodskiy, P.A.\*, Wu, Q.\*, Huizar, F.J., Soundarrajan, D.K., Narciso, C., Levis, M., Arredondo-Walsh, N., Chen, J., Liang, P., Chen, D.Z. and Zartman, J.J., 2017. Intercellular calcium signaling is regulated by morphogens during Drosophila wing development. *bioRxiv*, p.104745. DOI: [10.1101/104745](https://doi.org/10.1101/104745).
 
 \* indicates these authors contributed equally.
