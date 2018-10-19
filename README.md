@@ -45,7 +45,7 @@ An introduction to the role of calcium signaling in developmental contexts
 
 An initial look at calcium signaling dynamics in wing development
 
-> Narciso, C., Wu, Q., Brodskiy, P., Garston, G., Baker, R., Fletcher, A. and Zartman, J., 2015. Patterning of wound-induced intercellular Ca<sub>2+</sub> flashes in a developing epithelium. *Physical biology*, 12(5), p.056005. DOI: [10.1088/1478-3975/12/5/056005](https://doi.org/10.1088/1478-3975/12/5/056005).
+> Narciso, C., Wu, Q., Brodskiy, P., Garston, G., Baker, R., Fletcher, A. and Zartman, J., 2015. Patterning of wound-induced intercellular Ca<sup>2+</sup> flashes in a developing epithelium. *Physical biology*, 12(5), p.056005. DOI: [10.1088/1478-3975/12/5/056005](https://doi.org/10.1088/1478-3975/12/5/056005).
 
 A charactarization of the role of calcium signaling in wing development
 
