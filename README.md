@@ -1,5 +1,5 @@
 # Overview
-This toolbox simplifies spatial analysis of calcium wave dynamics in the developing wing disc. To understand why this is useful, it may be helpful to read our manuscript [here](https://doi.org/10.1101/104745). This repo contains a demo of the toolbox's functionality. The file demo.pdf serves as a test for much of the toolbox's functionality. Users should always validate that the analysis is doing what they think it should be doing for at least one sample the first time they use the toolbox as described in the demo.
+This toolbox simplifies spatial analysis of calcium wave dynamics in the developing wing disc. To understand why this is useful, it may be helpful to read our manuscript [here](https://doi.org/10.1101/104745). This repo contains a demo of the toolbox's functionality. The file demo.pdf serves as a test for much of the toolbox's functionality.
 
 # Contact
 - The most current public manuscript is a bioRxiv preprint located [here](https://doi.org/10.1101/104745). Feel free to cite it if you find this toolbox useful.
