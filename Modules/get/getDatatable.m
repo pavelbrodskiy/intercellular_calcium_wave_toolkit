@@ -55,20 +55,20 @@ for i = size(values_spatial, 1):-1:1
         else
             meanDataTable(i,j) = nanmean(values_spatial(i,1).(fields{j}){1});
             stdDataTable(i,j) = nanstd(values_spatial(i,1).(fields{j}){1});
-            if all(isnumeric(values_spatial(i,2).(fields{j}))) || all(isnan(values_spatial(i,2).(fields{j}){1}))
-                meanDataTable_A(i,j) = nan;
-                stdDataTable_A(i,j) = nan;
-            else
-                meanDataTable_A(i,j) = nanmean(values_spatial(i,2).(fields{j}){1});
-                stdDataTable_A(i,j) = nanstd(values_spatial(i,2).(fields{j}){1});
-            end
-            if all(isnumeric(values_spatial(i,3).(fields{j}))) || all(isnan(values_spatial(i,3).(fields{j}){1}))
-                meanDataTable_P(i,j) = nan;
-                stdDataTable_P(i,j) = nan;
-            else
-                meanDataTable_P(i,j) = nanmean(values_spatial(i,3).(fields{j}){1});
-                stdDataTable_P(i,j) = nanstd(values_spatial(i,3).(fields{j}){1});
-            end
+        end
+        if all(isnumeric(values_spatial(i,2).(fields{j}))) || all(isnan(values_spatial(i,2).(fields{j}){1}))
+            meanDataTable_A(i,j) = nan;
+            stdDataTable_A(i,j) = nan;
+        else
+            meanDataTable_A(i,j) = nanmean(values_spatial(i,2).(fields{j}){1});
+            stdDataTable_A(i,j) = nanstd(values_spatial(i,2).(fields{j}){1});
+        end
+        if all(isnumeric(values_spatial(i,3).(fields{j}))) || all(isnan(values_spatial(i,3).(fields{j}){1}))
+            meanDataTable_P(i,j) = nan;
+            stdDataTable_P(i,j) = nan;
+        else
+            meanDataTable_P(i,j) = nanmean(values_spatial(i,3).(fields{j}){1});
+            stdDataTable_P(i,j) = nanstd(values_spatial(i,3).(fields{j}){1});
         end
     end
 end

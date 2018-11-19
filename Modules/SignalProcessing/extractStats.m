@@ -78,6 +78,7 @@ stats.dfOverF_integrated_one_channel = mean(dF_overF1);
 
 %% Extract features for each peak
 stats.median_I = median(I);
+stats.I_trap = trapz(I) / length(I);
 
 stats.AmpRFP    = NaN;
 
